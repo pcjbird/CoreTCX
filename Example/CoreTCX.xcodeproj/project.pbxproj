@@ -46,7 +46,7 @@
 		7F33167C2C0201D94756C031 /* Pods-CoreTCX_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CoreTCX_Example.release.xcconfig"; path = "Target Support Files/Pods-CoreTCX_Example/Pods-CoreTCX_Example.release.xcconfig"; sourceTree = "<group>"; };
 		854EB91355DBAA9593FDC000 /* Pods-CoreTCX_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CoreTCX_Tests.release.xcconfig"; path = "Target Support Files/Pods-CoreTCX_Tests/Pods-CoreTCX_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		B9B00003D132B0C5D22D08F8 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
-		C6E597FA3C37B889225DD264 /* CoreTCX.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = CoreTCX.podspec; path = ../CoreTCX.podspec; sourceTree = "<group>"; };
+		C6E597FA3C37B889225DD264 /* CoreTCX.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = CoreTCX.podspec; path = ../CoreTCX.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		E00E7C157C4DDE75C71C1B37 /* Pods_CoreTCX_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CoreTCX_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
